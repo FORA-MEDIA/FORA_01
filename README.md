@@ -9,3 +9,5 @@ FORA aspires to address a range of challenges the media art world faces, includi
 - Knowledge Dissemination: Exploring ways to make the expertise of conservators and other professionals in museological practices accessible to a broader community.
 - Transparency in Appraisal: Shining a light on the opaque practices involved in the appraisal and pricing of media art.
 - Value Exchange: Investigating decentralized networks that can create more equitable value exchange systems for artists.
+
+Online at FORA.MEDIA
