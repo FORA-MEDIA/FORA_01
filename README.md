@@ -2,7 +2,7 @@
 
 FORA is an intra-organizational consortium developing crucial cultural infrastructure with decentralized methodologies.
 
-The virtual convening invites interdisciplinary specialists – conservators, curators, appraisers, engineers, creative technologists, researchers, critics, and collectors – to engage in a virtual peer-review process aimed at boosting conservation and care practices for experimental media art. 
+The virtual convening invites interdisciplinary specialists – conservators, curators, appraisers, engineers, creative technologists, researchers, critics, and collectors – to engage in a virtual peer-review process aimed at boosting stweardship and care practices for experimental media art. 
 
 Each FORA event convenes alongside an exhibition of media artwork that has been restored or preventively conserved with decentralized methods. The inaugural convening features a case study from TRANSFER presenting LaTurbo Avedon’s exhibition 'New Sculpt'(2013), produced at Onassis ONX Studio in NYC on Friday, October 27th 2023.
 
